@@ -1,0 +1,20 @@
+body {
+    background-color:lightseagreen;
+}
+
+.css-class {
+    background-color: lightcoral;
+}
+
+.css-class h1 {
+    font-size: 18px;
+}
+
+.css-class p {
+    font-size: 16px;
+    color: mediumslateblue;
+}
+
+.css-class li {
+    color: mediumspringgreen;
+}
